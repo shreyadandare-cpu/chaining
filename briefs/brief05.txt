@@ -1,0 +1,1 @@
+BreezeBand is a fictional lightweight fitness wristband. It tracks daily steps, records basic workout duration, has a simple display, and uses a rechargeable battery. It is designed for casual fitness users who want simple activity tracking.

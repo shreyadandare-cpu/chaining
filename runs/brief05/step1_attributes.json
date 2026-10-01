@@ -1,0 +1,11 @@
+{
+  "product_name": "BreezeBand",
+  "category": "fitness wristband",
+  "key_features": [
+    "daily steps tracking",
+    "basic workout duration recording",
+    "simple display",
+    "rechargeable battery"
+  ],
+  "target_audience": "casual fitness users"
+}

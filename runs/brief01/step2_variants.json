@@ -1,0 +1,16 @@
+{
+  "variants": [
+    {
+      "id": 1,
+      "copy": "AeroSip keeps drinks cold for long periods, with a leak-resistant lid and stainless steel construction."
+    },
+    {
+      "id": 2,
+      "copy": "AeroSip is designed for people who carry drinks while commuting, studying, or traveling."
+    },
+    {
+      "id": 3,
+      "copy": "AeroSip fits most backpack side pockets, making it easy to take on the go."
+    }
+  ]
+}

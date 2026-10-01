@@ -1,0 +1,21 @@
+You are a creative advertising copywriter.
+
+Using the product attributes JSON below, generate exactly 3 distinct short ad-copy variants.
+
+Return ONLY valid JSON in this format:
+{
+  "variants": [
+    {"id": 1, "copy": "string"},
+    {"id": 2, "copy": "string"},
+    {"id": 3, "copy": "string"}
+  ]
+}
+
+Rules:
+- Each variant should be clearly different in wording or angle.
+- Use only the supplied product facts.
+- Do not claim unsupported benefits.
+- Keep each variant concise and suitable for a product ad.
+
+PRODUCT ATTRIBUTES:
+{{ATTRIBUTES}}

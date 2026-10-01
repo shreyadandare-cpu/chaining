@@ -1,0 +1,16 @@
+{
+  "variants": [
+    {
+      "id": 1,
+      "copy": "Stay organized, stay focused. CloudNote helps you keep all your notes in one place, across devices, and easily searchable."
+    },
+    {
+      "id": 2,
+      "copy": "Unlock your full potential with CloudNote. Seamlessly sync your notes, tags, and folders across devices, and discover what you need in seconds."
+    },
+    {
+      "id": 3,
+      "copy": "Take your studies to the next level with CloudNote. Get instant access to your notes, tags, and folders on any device, and stay on top of your game."
+    }
+  ]
+}

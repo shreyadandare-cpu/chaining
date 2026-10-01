@@ -1,0 +1,11 @@
+{
+  "product_name": "CloudNote",
+  "category": "note-taking app",
+  "key_features": [
+    "folders",
+    "searchable notes",
+    "quick tags",
+    "cross-device synchronization"
+  ],
+  "target_audience": "university students"
+}

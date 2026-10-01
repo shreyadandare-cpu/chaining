@@ -1,0 +1,1 @@
+CloudNote is a fictional note-taking app for university students. It supports folders, searchable notes, quick tags, and cross-device synchronization. The product is intended for students who want to organize class notes and study material.

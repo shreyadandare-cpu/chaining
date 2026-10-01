@@ -1,0 +1,16 @@
+{
+  "variants": [
+    {
+      "id": 1,
+      "copy": "The BreezeBand tracks your daily steps and basic workout duration."
+    },
+    {
+      "id": 2,
+      "copy": "The BreezeBand is a simple fitness wristband with a rechargeable battery."
+    },
+    {
+      "id": 3,
+      "copy": "The BreezeBand is designed for casual fitness users who want to track their progress."
+    }
+  ]
+}

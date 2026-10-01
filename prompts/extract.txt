@@ -1,0 +1,18 @@
+You are an information extraction assistant.
+
+Read the product brief below and return ONLY valid JSON with exactly these keys:
+{
+  "product_name": "string",
+  "category": "string",
+  "key_features": ["feature 1", "feature 2", "feature 3"],
+  "target_audience": "string"
+}
+
+Rules:
+- Extract only information supported by the brief.
+- Do not invent features.
+- If a field is not stated, use an empty string or empty list.
+- Keep the JSON concise and valid.
+
+PRODUCT BRIEF:
+{{INPUT}}

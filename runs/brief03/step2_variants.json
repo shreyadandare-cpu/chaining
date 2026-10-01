@@ -1,0 +1,16 @@
+{
+  "variants": [
+    {
+      "id": 1,
+      "copy": "The SnapMeal reusable meal-prep container set is designed for office workers and gym-goers. It features microwave-safe containers, leak-resistant lids, and stacks neatly."
+    },
+    {
+      "id": 2,
+      "copy": "SnapMeal is a practical solution for meal prep. Its containers are safe for microwave use, have secure lids, and can be stacked for easy storage."
+    },
+    {
+      "id": 3,
+      "copy": "The SnapMeal container set is ideal for office workers and fitness enthusiasts. It includes containers that can be safely heated in the microwave, have leak-proof lids, and can be stacked for organization."
+    }
+  ]
+}

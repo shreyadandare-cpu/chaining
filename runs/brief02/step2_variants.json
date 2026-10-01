@@ -1,0 +1,16 @@
+{
+  "variants": [
+    {
+      "id": 1,
+      "copy": "The GlowDesk features adjustable brightness and three light modes for optimal comfort."
+    },
+    {
+      "id": 2,
+      "copy": "The GlowDesk has a USB-C charging port for convenient charging."
+    },
+    {
+      "id": 3,
+      "copy": "The GlowDesk is designed for students and remote workers, providing a reliable light source."
+    }
+  ]
+}
